@@ -7,7 +7,7 @@ Lista de recursos del CEDV 2017-2018
     </p>
 </div>
 
-_Para contribuir, haz click en README.md y entonces en el icono del lápiz. Haz tus cambios y haz click en el botón "Propose file change" para enviar tu propuesta de cambios._
+_Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resources-list/blob/master/README.md) y entonces en el icono del lápiz. Haz tus cambios y haz click en el botón "Propose file change" para enviar tu propuesta de cambios._
 
 ------
 ## Software, herramientas y recursos
