@@ -17,6 +17,7 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 
 ### Modelado 3D
 - [Asset Force](https://assetforge.io/) - Herramienta de modelado 3D sencillo (19,95\$ ed. básica, 39,95\$ ed. deluxe)
+- [Blender](https://www.blender.org/) - Herramienta de modelado 3D (Open Source)
 
 ### Gestión de proyectos
 - [Trello](https://trello.com)
@@ -39,6 +40,9 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 ### C++
 - [Programiz - Learn C++ Programming](https://www.programiz.com/cpp-programming) - Tutorial en inglés
 - [CPlusPlus](http://www.cplusplus.com/doc/tutorial/) - Tutorial en inglés
+
+### Modelado 3D
+- [Curso de Blender - Carlos G. Morcillo/David Vallejo](http://www.esi.uclm.es/www/cglez/fundamentos3D/) - Curso de Blender de los profes del CEDV.
 
 ### Otros
 - [Git - La guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html) - Guía en español para aprender a usar git
