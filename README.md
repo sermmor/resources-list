@@ -5,18 +5,23 @@ Lista de recursos del CEDV 2017-2018
     <p>
         Lista de recursos variados para el CEDV 2017-2018 de la UCLM
     </p>
+    <a href="https://github.com/cedv-2017/examples">Ejercicios resueltos</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/cedv-2017/examples/wiki">Wiki con resolución de problemas comunes</a>&nbsp;&nbsp;&nbsp;
 </div>
+<br>
 
 _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resources-list/blob/master/README.md) y entonces en el icono del lápiz. Haz tus cambios y haz click en el botón "Propose file change" para enviar tu propuesta de cambios._
 
 ------
+<br>
+
 ## Software, herramientas y recursos
 ### Esenciales
 - [Unreal Engine 4](https://www.unrealengine.com/)
 - [Microsoft Visual Studio 2017](https://www.visualstudio.com/es/downloads/) - La versión Community
 
 ### Modelado 3D
-- [Asset Force](https://assetforge.io/) - Herramienta de modelado 3D sencillo (19,95\$ ed. básica, 39,95\$ ed. deluxe)
+- [Asset Forge](https://assetforge.io/) - Herramienta de modelado 3D sencillo (19,95\$ ed. básica, 39,95\$ ed. deluxe)
 - [Blender](https://www.blender.org/) - Herramienta de modelado 3D (Open Source)
 
 ### Gestión de proyectos
