@@ -66,4 +66,9 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 - [Game Development Resources by David Arcila](https://game-development.zeef.com/david.arcilla) - Lista en inglés enorme de programas y recursos para distintos ámbitos del desarrollo de videojuegos
 - [Awesome Remote Job - Tools](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md#tools) - Recopilación de software para poder trabajar en remoto
 
+------
+## Empresas y ofertas de trabajo
+- [Listado de estudios](https://www.hobbyconsolas.com/reportajes/estudios-desarrollo-espanoles-comunidades-provincias-61460?amp) - Listado de empresas españolas organizado por provincias y actualizado a 30 de septiembre de 2017
+- [Ofertas de trabajo](http://www.stratos-ad.com/trabajo) - Solamente ofertas relacionadas con los videojuegos en España
+
 
