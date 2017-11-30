@@ -25,10 +25,13 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 ### Arte
 - [Open Game Art](https://opengameart.org/) - Página con assets de arte para juegos 2D y 3D con licencias open source o CC
 - [Kenney Assets](https://kenney.nl/assets) - Página con assets de arte 2D, 3D o audio gratuitos y de pago
+- [Shadertoy](https://www.shadertoy.com/) - Crea o descarga tus propios shaders
+
 #### 3D
 ##### Programas
 - [Asset Forge](https://assetforge.io/) - Herramienta de modelado 3D sencillo (19,95\$ ed. básica, 39,95\$ ed. deluxe)
 - [Blender](https://www.blender.org/) - Herramienta de modelado 3D gratuito y open source
+
 ##### Assets y recursos
 - [Dev Assets](http://devassets.com/) - Modelos 3D para juegos gratuitos o de pago
 
