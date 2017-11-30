@@ -25,7 +25,7 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 ### Arte
 - [Open Game Art](https://opengameart.org/) - Página con assets de arte para juegos 2D y 3D con licencias open source o CC
 - [Kenney Assets](https://kenney.nl/assets) - Página con assets de arte 2D, 3D o audio gratuitos y de pago
-- [Shadertoy](https://www.shadertoy.com/) - Crea o descarga tus propios shaders
+- [Shadertoy](https://www.shadertoy.com/) - Crea o descarga shaders de forma online
 
 #### 3D
 ##### Programas
