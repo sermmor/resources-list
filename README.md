@@ -103,5 +103,5 @@ _Para contribuir, haz click en [README.md](https://github.com/cedv-2017/resource
 ## Empresas y ofertas de trabajo
 - [Listado de estudios](https://www.hobbyconsolas.com/reportajes/estudios-desarrollo-espanoles-comunidades-provincias-61460?amp) - Listado de empresas españolas organizado por provincias y actualizado a 30 de septiembre de 2017
 - [Ofertas de trabajo](http://www.stratos-ad.com/trabajo) - Solamente ofertas relacionadas con los videojuegos en España
-
+- [Ofertas de trabajo en Europa, EE.UU., Canadá y Australia](https://datascope.co.uk) - Ofertas de trabajo relacionadas con videojuegos en Europa, EE.UU., Canadá y Australia.
 
